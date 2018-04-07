@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.anindya.localJobNotification.MainActivity">
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/enableBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="32dp"
+        android:onClick="enableNotification"
+        android:text="Enable"/>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/disableBtn"
+        android:layout_below="@+id/enableBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="32dp"
+        android:onClick="disableNotification"
+        android:text="Disable"/>
+
+</RelativeLayout>

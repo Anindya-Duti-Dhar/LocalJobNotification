@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Duti\.android\build-cache\92311d36b8c8d504ddb3374b9178d2d841bcb133\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61a0369f93fb7901fde1bdae68fc71de256244c">
+        <dex dex="E:\Android Projects\AndroidJobDemo-master\AndroidJobDemo-master\app\build\intermediates\pre-dexed\debug\classes_4a83a80658ce9be14a93eb97cdc9557e5e83e9af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Duti\.android\build-cache\1c3b8ad867017298373972385735d79599ee6853\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="daa301e618d430d36e22bff4f46517c2cdcbbe01">
+        <dex dex="E:\Android Projects\AndroidJobDemo-master\AndroidJobDemo-master\app\build\intermediates\pre-dexed\debug\classes_a9859bac06efe68c83709452df50c58050f7b7e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Duti\.android\build-cache\84ed4152edcc339ec469557d480fc2b7103b2eec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="E:\Android Projects\AndroidJobDemo-master\AndroidJobDemo-master\app\build\intermediates\pre-dexed\debug\classes_861ec1cc3fd7d06b69cfdac030a78b4ffc126bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Duti\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="E:\Android Projects\AndroidJobDemo-master\AndroidJobDemo-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.1_b23eb88989df5da42b458ec7b3a22b8baa3d7641.jar" />
+    </item>
+
+</items>
